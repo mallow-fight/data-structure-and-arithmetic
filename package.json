@@ -1,0 +1,19 @@
+{
+  "name": "data-structure-and-arithmetic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallow-fight/data-structure-and-arithmetic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mallow-fight/data-structure-and-arithmetic/issues"
+  },
+  "homepage": "https://github.com/mallow-fight/data-structure-and-arithmetic#readme"
+}
