@@ -5,8 +5,8 @@ var Queen = /** @class */ (function () {
         this.field = [];
         this.stack = [];
         for (var i = 0; i < width; i++) {
-            for (var j = 0; j < width; j++) {
-                this.field.push([i, j]);
+            for (var j_1 = 0; j_1 < width; j_1++) {
+                this.field.push([i, j_1]);
             }
         }
     }
